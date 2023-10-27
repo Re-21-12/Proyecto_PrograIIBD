@@ -103,12 +103,12 @@ public class Procesos_Fabrica_de_Sillas implements Interfaz_Procesos_Fabrica_de_
 				System.out.println("+-----------------------------------+");
 				System.out.println("|Requisitos minimos para una silla  |");
 				System.out.println("+-----------------------------------+");
-				System.out.println("|  nombre  | 		cantidad        |");
+				System.out.println("|  nombre  | 	cantidad        |");
 				System.out.println("|madera    | 3u                     |");
 				System.out.println("|clavos    | 10u                    |");
 				System.out.println("|lijas     | 2u                     |");
 				System.out.println("|barniz    | 0.9463kg               |");
-				System.out.println("|cola	   | 0.1250kg               |");
+				System.out.println("|cola      | 0.1250kg               |");
 				System.out.println("+-----------------------------------+");
 				System.out.println("Ingrese el nombre del material: ");
 				String nombre = entrada.nextLine();
